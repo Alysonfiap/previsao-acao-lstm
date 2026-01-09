@@ -190,18 +190,6 @@ Incluindo:
 ✔ requisições
 ✔ previsões geradas
 
-⚠ Aviso Importante
-
-Este projeto é educacional.
-Não deve ser usado isoladamente para decisões financeiras.
-
-Modelos preditivos têm limitações e dependem de:
-
-contexto econômico
-
-volatilidade do mercado
-
-qualidade dos dados
 
 💡 Possíveis Melhorias Futuras
 
@@ -216,3 +204,4 @@ qualidade dos dados
 
 Projeto desenvolvido por Alyson Alves
 📌 Focado em Data Science • Machine Learning • APIs
+
